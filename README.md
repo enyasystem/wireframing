@@ -37,6 +37,34 @@ Some common tools used by designers to create wireframes include:
 - Draw.io  
 
 ---
+## Key Elements of Wireframing
+
+Wireframes outline the structure and functionality of a website or app before the final design stage. The key elements found in a wireframe include:
+
+1. Layout Structure
+
+This defines the overall arrangement of the page — how sections like the header, main content, and footer are positioned.
+Example:
+A homepage wireframe might have the navigation bar at the top, a hero section in the center, and a footer at the bottom. This helps ensure the layout is organized and visually balanced.
+
+2. Navigation
+
+Navigation elements show how users will move through the site or app.
+Example:
+Menus, sidebars, and breadcrumbs are added to wireframes to demonstrate the flow between pages (e.g., clicking “About” takes users to the About page).
+This ensures users can find what they need easily.
+
+3. Content Placement
+
+This represents where text, images, and media will appear — without focusing on colors or actual content.
+Example:
+Placeholder boxes and lines (often labeled “Image” or “Text”) indicate where content will go, helping designers visualize spacing and hierarchy.
+
+4. Functionality
+
+Even though wireframes are not yet interactive, they often include notes or icons to show how elements will behave.
+Example:
+Buttons may have annotations like “opens login form” or “scrolls to section,” explaining their purpose and planned interaction.
 
 **Repository:** `wireframing`  
 **Created by:** Enya Elvis  
