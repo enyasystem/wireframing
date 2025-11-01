@@ -41,30 +41,76 @@ Some common tools used by designers to create wireframes include:
 
 Wireframes outline the structure and functionality of a website or app before the final design stage. The key elements found in a wireframe include:
 
-1. Layout Structure
+1. **Layout Structure**
 
 This defines the overall arrangement of the page — how sections like the header, main content, and footer are positioned.
 Example:
 A homepage wireframe might have the navigation bar at the top, a hero section in the center, and a footer at the bottom. This helps ensure the layout is organized and visually balanced.
 
-2. Navigation
-
+2. **Navigation**
+   
 Navigation elements show how users will move through the site or app.
 Example:
 Menus, sidebars, and breadcrumbs are added to wireframes to demonstrate the flow between pages (e.g., clicking “About” takes users to the About page).
 This ensures users can find what they need easily.
 
-3. Content Placement
+4. **Content Placement**
 
 This represents where text, images, and media will appear — without focusing on colors or actual content.
 Example:
 Placeholder boxes and lines (often labeled “Image” or “Text”) indicate where content will go, helping designers visualize spacing and hierarchy.
 
-4. Functionality
+4. **Functionality**
 
 Even though wireframes are not yet interactive, they often include notes or icons to show how elements will behave.
 Example:
 Buttons may have annotations like “opens login form” or “scrolls to section,” explaining their purpose and planned interaction.
+
+## Types of Wireframes
+
+Wireframes come in different levels of detail, depending on the stage of the design process. The two main types are **Low-Fidelity** and **High-Fidelity** wireframes.
+
+---
+
+### **Low-Fidelity Wireframes**
+
+Low-fidelity (Lo-Fi) wireframes are **basic sketches or outlines** that focus on the structure and layout, not design details.  
+They usually use **simple shapes, boxes, and placeholders** to represent content.
+
+**Purpose:**
+- To brainstorm ideas quickly  
+- To visualize the general layout and flow  
+- To gather early feedback before spending time on detailed design  
+
+**Tools commonly used:** Paper & pencil, Balsamiq, or basic whiteboard drawings.
+
+**Example:**  
+A hand-drawn outline of a homepage showing where the logo, menu, and main content will go.
+
+---
+
+### 🔹 **High-Fidelity Wireframes**
+
+High-fidelity (Hi-Fi) wireframes are **more detailed and closer to the final design**.  
+They include accurate spacing, typography, and sometimes even real content or images.  
+
+**Purpose:**
+- To communicate design details clearly  
+- To test usability and layout consistency  
+- To prepare for prototyping or final UI design  
+
+**Tools commonly used:** Figma, Adobe XD, Sketch, or Axure.
+
+**Example:**  
+A detailed Figma wireframe that includes proper button styles, fonts, and alignment similar to the finished product.
+
+---
+
+##  Type of Wireframe Used Here
+
+For this task, the wireframe being created is a **Low-Fidelity Wireframe**, since the focus is on outlining the **basic layout structure, content placement, and functionality flow** — **not** on design colors, fonts, or visuals.  
+This helps in planning and organizing ideas before moving into the detailed, high-fidelity design stage.
+
 
 **Repository:** `wireframing`  
 **Created by:** Enya Elvis  
