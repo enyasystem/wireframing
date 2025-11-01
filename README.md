@@ -111,6 +111,37 @@ A detailed Figma wireframe that includes proper button styles, fonts, and alignm
 For this task, the wireframe being created is a **Low-Fidelity Wireframe**, since the focus is on outlining the **basic layout structure, content placement, and functionality flow** — **not** on design colors, fonts, or visuals.  
 This helps in planning and organizing ideas before moving into the detailed, high-fidelity design stage.
 
+##  Wireframing Tools
+
+There are many tools available to create wireframes, each with its own strengths and level of complexity. Choosing the right tool depends on the project’s goals, the team’s workflow, and personal preference.
+
+---
+
+###  **Popular Wireframing Tools**
+
+1. **Figma** – A cloud-based design tool that allows real-time collaboration.  
+2. **Adobe XD** – Great for both wireframing and prototyping with interactive elements.  
+3. **Balsamiq** – Focuses on low-fidelity wireframes and quick sketch-style designs.  
+4. **Sketch** – A macOS tool known for its clean interface and strong UI design capabilities.  
+5. **Miro** – Excellent for brainstorming, flowcharts, and collaborative wireframes.  
+
+---
+
+### **Recommended Tool: Figma**
+
+**Figma** is one of the most popular and recommended tools for wireframing and UI design.
+
+**Key Features:**
+- Real-time collaboration — multiple users can work together on the same file.  
+- Cloud-based — access your designs from anywhere without installing heavy software.  
+- Components and reusable styles — helps maintain consistency across designs.  
+- Easy prototyping — allows quick transition from static wireframes to interactive mockups.  
+- Community resources — thousands of free templates and UI kits available.
+
+**Why It’s Useful for Wireframing:**
+Figma makes it easy to start with low-fidelity wireframes and gradually move toward high-fidelity designs — all within the same platform. Its collaborative nature also supports feedback and teamwork during the design process, making it ideal for both beginners and professionals.
+
+
 
 **Repository:** `wireframing`  
 **Created by:** Enya Elvis  
